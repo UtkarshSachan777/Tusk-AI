@@ -11,7 +11,7 @@
 
 *Revolutionizing financial security with cutting-edge AI technology*
 
-[🌐 Live Demo](https://tusk-ai-shield.vercel.app) • [📖 Documentation](https://docs.tusk-ai.com) • [🎯 Get Started](#-getting-started)
+[🌐 Live Demo](https://tusk-ai-shield.vercel.app) 
 
 ![TUSK AI Banner](https://img.shields.io/badge/TUSK%20AI-Financial%20Security%20Reimagined-blue?style=for-the-badge&logo=shield&logoColor=white)
 
